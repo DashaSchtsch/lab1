@@ -1,0 +1,14 @@
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Даша\навчання\ТПрог\лб\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
